@@ -1,0 +1,112 @@
+{
+    "userList": [
+        {
+            "_id": 0,
+            "userName": "sebas",
+            "password": "gAAAAABgNB0qKexMhySFhbE9SjubcTlm3RxBJ-OmckqgE7qDF0waFMmgMYeSWEP8R2ea8uZaPypjrwMFh7RyR0lor7zOLRJ1sw==",
+            "name": "sebastian arias"
+        },
+        {
+            "_id": 1,
+            "userName": "sebastian",
+            "password": "gAAAAABgNCY2px6Z-U2Okvgf9-k5ZZ92HwtQh4AzhRLkUGCFaKs1zUO6MKIiecnIzOyZj8HQKyHeC6gY-RjgDs5WU7K6gA_Atw==",
+            "name": "sebastian arias"
+        },
+        {
+            "_id": 2,
+            "userName": "test",
+            "password": "gAAAAABgT8oshGYx38Dr0Evr0MHCVS1u6xQLvC9XPH12ruzU5n7yBagaOuuWe343bl9hMc0_RiJMFWDt2N3567fHoEcJMIjwKA==",
+            "name": "sebastian arias"
+        },
+        {
+            "_id": 3,
+            "userName": "juan",
+            "password": "gAAAAABgUmvERsHCt5eDEYAoy7aGMhNfCAfDYCs3DZ9engkXCTEGYtDMAonCv9tXHFqpkDc3ZdR63Oeuihg3Kq9sogyJeyp5GA==",
+            "name": "juan arias"
+        },
+        {
+            "_id": 4,
+            "userName": "john",
+            "password": "gAAAAABgUnLyUOmGbUymV6LrdN1Z1IS00lnGsr9X_8sYKxg1mhaHDwW5Gu4NoVuii-YDjT0Kj72QxqeQLW1XnCZM2V6JJgSgvQ==",
+            "name": "john cardozo"
+        }
+    ],
+    "tagList": [
+        {
+            "_id": 0,
+            "userId": 1,
+            "tag": "facebook"
+        },
+        {
+            "_id": 2,
+            "userId": 1,
+            "tag": "test 2"
+        },
+        {
+            "_id": 3,
+            "userId": 4,
+            "tag": "redes sociales"
+        },
+        {
+            "_id": 4,
+            "userId": 4,
+            "tag": ""
+        }
+    ],
+    "itemList": [
+        {
+            "_id": 1,
+            "userId": 1,
+            "title": "test",
+            "userName": "sebastian",
+            "password": "gAAAAABgNCd6CnQYncKL61mrowZ9uZqJv0JpOv2PQO-I5ofPLKa4bQACKPeniAViw5n-AF9KguLOV13zjDxS5HONfDfJRCO7qg==",
+            "URL": "test",
+            "comment": "test",
+            "tagList": [
+                "facebook"
+            ]
+        },
+        {
+            "_id": 2,
+            "userId": 2,
+            "title": "hola",
+            "userName": "no se",
+            "password": "gAAAAABgT8rtGsZ3bsET2C3spWzbF5UfkH8cR_UZaVnWoyOASfBhNVVnBMRcQkGJSx9xP6CTR-LsXAqbeDKbOl9kEp5lvb36mw==",
+            "URL": "www.test.com",
+            "comment": "este es un comentario",
+            "tagList": []
+        },
+        {
+            "_id": 3,
+            "userId": 2,
+            "title": "otro",
+            "userName": "test",
+            "password": "gAAAAABgT8qVgphszjRCRm9SBiY60IVhWyF1JTmgRaznecxpv8JYJkkzUUUf-_EzHeZ0AdmfhrVAk_1pVAbbF2ojzQz3PhpW2Q==",
+            "URL": "algo.test.com",
+            "comment": "comment",
+            "tagList": []
+        },
+        {
+            "_id": 9,
+            "userId": 0,
+            "title": "t",
+            "userName": "t",
+            "password": "gAAAAABgUiCd2sl19NKqRZ_rF8pkUga8ckRgFc3aMQl5xTKt7RRMiVrT4ikicIfvHyO4kl0nhJlaBfmiIJXYbvDRrl_VLlW0FA==",
+            "URL": "t",
+            "comment": "t",
+            "tagList": []
+        },
+        {
+            "_id": 10,
+            "userId": 4,
+            "title": "facebook",
+            "userName": "juan_arias@",
+            "password": "gAAAAABgUnNUBSxvv0sBXRTx7pBdHK-BKUu6b0xu3ZNNrxjSQRZQ69uMQe5PIlH0yXnBSlnwY_8JX7gU6nyGvNuz3rlpuVP9eg==",
+            "URL": "www.facebook.com",
+            "comment": "mi cuenta de facebook",
+            "tagList": [
+                "redes sociales"
+            ]
+        }
+    ]
+}
